@@ -1,0 +1,6 @@
+Grade average= 8.3
+
+If (grade)>8.3
+   Print (Pass)
+Else (grade)<8.3
+   Print (Fail)
