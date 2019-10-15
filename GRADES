@@ -1,7 +1,10 @@
-Grade average= 8.3
+Grade1=10
+Grade2=8
+Grade3=7
 
-Grade= 8.3
-If (grade)>=8.3
-   Print (Pass)
-Else (grade)<8.3
-   Print (Fail)
+Grade average=(Grade1 + Grade2 + Grade3)/3= 8.0
+
+If (Grade average)>=8.0
+   Print ("Pass")
+Else (Grade average)<8.0
+   Print ("Fail")
