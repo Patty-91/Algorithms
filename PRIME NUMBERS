@@ -1,0 +1,18 @@
+Number=1
+Divisor=2
+
+iF(number<2)
+    pirnt ("its not prime")
+    number+=1
+    process again
+If (number=2)
+    print ("number is prime?)
+    number+=
+    
+    
+Process
+     remainder=number%divisor
+If (remainder=0)
+      It is not primenumber, number+=1, divisor=2, process again
+
+Else
