@@ -1,0 +1,10 @@
+var rain=0;
+var Vancouver=1;
+
+if (rain==1||Vancouver==1)
+
+{console.log("Take your umbrella");
+
+}
+
+else {console.log("take umbrella");}
